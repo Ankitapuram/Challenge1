@@ -1,0 +1,124 @@
+body{
+    background-color: #EEEEEE;
+    margin-bottom: 0%;
+}
+.trumpet{
+   float: left;
+   width: 3%;
+   padding:0.625rem 0.313rem ;
+}
+.origin{
+    padding-left: 0.938;
+    font-size: 1.75rem;
+    font-family: 'Playfair Display', serif;
+    line-height: 2;
+}
+.heading-1{
+    margin: 1.25rem 12.5rem 1.25rem 25rem;
+    line-height: 2;
+    
+}
+.emails{
+    margin-left: 31.25rem;
+    padding-right: 9.375rem;
+    padding-left: 0.5rem;
+    background-color: #FFFFFF;
+    border-color: #767676;
+    border-radius: 0.25rem;
+}
+.btns{
+    margin: 0.625rem 0 0 37.5rem;
+}
+.class1{
+    margin: 6.25rem 0 0 15.625rem;
+}
+.para1{
+    margin: 0 0 1.25rem 15.625rem;
+    margin-top: 0;
+}
+.class2{
+    margin: 6.25rem 0 0 15.625rem;
+}
+.para2{
+    margin: 0 0 1.25rem 15.625rem;
+    margin-top: 0;
+}
+.class3{
+    margin: 6.25rem 0 0 15.625rem;
+}
+.para3{
+    margin: 0 0 1.25rem 15.625rem;
+    margin-top: 0;
+}
+.video{
+    padding-top: 3.125rem;
+    margin-left: 15.625rem;
+}
+.works{
+    border: solid #000000;
+    border-width: 0.063rem;
+    padding: 0.625rem 3.125rem;
+   
+}
+.fires{
+    width: 5%;
+    float: left;
+    margin-left: 8.125rem;
+    padding-top: 4.375rem;
+}
+.pricing{
+    border: solid #000000;
+    border-width: 0.063rem;
+    padding: 0.625rem 3.75rem;
+   
+}
+.valve{
+    border: solid #000000;
+    border-width:  0.063rem;
+    padding: 0.625rem 3.75rem;
+    
+}
+td{
+    padding:  0.625rem;
+
+}
+table{
+    text-align: center;
+    margin-top: 3.125rem;
+}
+.head{
+    background-color: #DDDDDD;
+}
+.position{
+    position: relative;
+    left: -13.75rem;
+    bottom: 3.75rem;
+}
+.container1{
+    background-color: #DDDDDD;
+}
+.copyright{
+    background-color: #DDDDDD;
+    margin-top: 3.125rem;
+   
+}
+.paras1{
+   padding-left: 68.75rem;
+   color: #767676;
+   line-height: 2;
+}
+.bass{
+    background-color: #DDDDDD;
+}
+.trucks{
+    width: 5%;
+    float: left;
+    margin-left: 7.5rem;
+    padding-top: 4.375rem;
+}
+.battery{
+    width: 6%;
+    float: left;
+    margin-left:  7.5rem;
+    padding-top: 4.375rem;
+}
